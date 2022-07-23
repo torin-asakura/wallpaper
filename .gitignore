@@ -40,9 +40,9 @@ node_modules
 # This is the Yarn install state cache, it can be rebuilt anytime
 /.yarn/install-state.gz
 
+# Build directory
 dist/
-.idea/workspace.xml
-.idea/vcs.xml
 
-# next.js output
-.next
+# JetBrains Files
+.idea
+*.iml
