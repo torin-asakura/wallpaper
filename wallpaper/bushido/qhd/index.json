@@ -1,0 +1,11 @@
+[
+  {
+    "fileName": "light-qhd.jpg",
+    "isPrimary": true,
+    "isForLight": true
+  },
+  {
+    "fileName": "dark-qhd.jpg",
+    "isForDark": true
+  }
+]
